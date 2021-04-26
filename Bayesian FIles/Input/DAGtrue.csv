@@ -1,0 +1,13 @@
+ID,Variable 1,Dependency,Variable 2
+1,Year,->,Food_Revenue
+2,Year,->,Hobbies_Revenue
+3,Year,->,Household_Revenue
+4,Snap_up,->,Food_Revenue
+7,Snap_up,->,Hobbies_Revenue
+5,Snap_up,->,Household_Revenue
+6,Holiday,->,Food_Revenue
+7,Holiday,->,Hobbies_Revenue
+8,Holiday,->,Household_Revenue
+9,Food_Revenue,->,Total_Revenue
+10,Hobbies_Revenue,->,Total_Revenue
+11,Household_Revenue,->,Total_Revenue

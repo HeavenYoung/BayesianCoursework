@@ -1,0 +1,5 @@
+Year,Snap_up,Hobbies_Revenue,0.0863198550877302
+Household_Revenue,Holiday,Snap_up,0.1126382996791398
+Total_Revenue,Year,Snap_up,0.06551626974093183
+Holiday,Snap_up,Household_Revenue,0.10373331786827263
+Hobbies_Revenue,Year,Snap_up,0.06520532941197758

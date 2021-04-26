@@ -1,0 +1,15 @@
+Food_Revenue,Year,Holiday,0.03696852647450544
+Food_Revenue,Holiday,Household_Revenue,0.04264150745681434
+Total_Revenue,Holiday,Hobbies_Revenue,0.03522737521845086
+Total_Revenue,Holiday,Household_Revenue,0.02016207339010876
+Hobbies_Revenue,Holiday,Household_Revenue,0.025428990494928364
+Hobbies_Revenue,Holiday,Total_Revenue,0.03788937641407459
+Hobbies_Revenue,Holiday,Food_Revenue,0.03712018332128623
+Snap_up,Year,Holiday,0.007700476564596083
+Total_Revenue,Food_Revenue,Household_Revenue,0.03771208539735981
+Food_Revenue,Snap_up,Total_Revenue,0.048387606080476236
+Total_Revenue,Year,Holiday,0.04659277015489511
+Hobbies_Revenue,Snap_up,Household_Revenue,0.031015222127283082
+Total_Revenue,Food_Revenue,Hobbies_Revenue,0.0490603240450975
+Total_Revenue,Holiday,Food_Revenue,0.011752152453459588
+Food_Revenue,Holiday,Total_Revenue,0.036482850575552714
